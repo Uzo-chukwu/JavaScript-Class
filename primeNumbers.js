@@ -13,9 +13,9 @@ function isPrime(number){
 
 }
 
-console.log(isPrime(9));
+console.log(isPrime(5));
 let count = 0;
-for(let number = 0; number < 100000; number++){
+for(let number = 0; number < 10; number++){
 	if(isPrime(number)){
 		count++;
 	}
