@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background: linear-gradient(white,lightgreen );
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 8%;
+    padding-left: 8%;
+}
+
+.nav-links ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 200%;
+}
+
+.login-signup ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.btn{
+    color: white;
+    background-color: #54BD95;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.nav-items li{
+}
+
+.logo{
+    font-family: sans-serif;
+}
+.right-side{
+
+}
+
+.hero-page{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-right: 6%;
+    padding-left: 8%;
+}
+.hero-text{
+    font-size: 80px;
+    font-family: sans-serif;
+}
+.guy-image{
+    padding-bottom: 15%;
+    
+
+}
